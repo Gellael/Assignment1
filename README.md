@@ -1,3 +1,4 @@
+# NO 1
 1. Inisialisasi variable "name" dengan string "Ricardo Gellael"
 
    ![ss ulang 2](https://github.com/Gellael/Perulangan-hingga-100-menggunakan-java/assets/147498372/c5e0fa60-8d07-44d0-80c7-9fbeee1e87d6)
