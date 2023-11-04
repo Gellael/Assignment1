@@ -1,4 +1,3 @@
-![Screenshot (123)](https://github.com/Gellael/Assignment1/assets/147498372/be8a67d9-7109-4d1b-a9ac-6e7d23dbf081)# NO 1
 1. Inisialisasi variable "name" dengan string "Ricardo Gellael"
 
    ![ss ulang 2](https://github.com/Gellael/Perulangan-hingga-100-menggunakan-java/assets/147498372/c5e0fa60-8d07-44d0-80c7-9fbeee1e87d6)
