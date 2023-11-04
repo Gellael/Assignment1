@@ -90,6 +90,5 @@
 6. Berikut adalah kode Java yang telah dijelaskan:
  
    <img width="464" alt="ss array 5" src="https://github.com/Gellael/Variabel-dengan-tipe-data-array-menggunakan-perulangan-for/assets/147498372/39cd2bd7-c6dd-4677-a796-927160bada58">
-![Screenshot (123)](https://github.com/Gellael/Assignment1/assets/147498372/bca58c6a-389d-48fa-ab63-661f98fbce9d)
 
    
